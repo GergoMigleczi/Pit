@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/Pit/bin/Debug/netcoreapp3.1/Pit.deps.json
+/Users/migleczigergo/Projects/Pit/bin/Debug/netcoreapp3.1/Pit.runtimeconfig.json
+/Users/migleczigergo/Projects/Pit/bin/Debug/netcoreapp3.1/Pit.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/Pit/bin/Debug/netcoreapp3.1/Pit.dll
+/Users/migleczigergo/Projects/Pit/bin/Debug/netcoreapp3.1/Pit.pdb
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.AssemblyInfo.cs
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.dll
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.pdb
+/Users/migleczigergo/Projects/Pit/obj/Debug/netcoreapp3.1/Pit.genruntimeconfig.cache
